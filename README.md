@@ -1,4 +1,6 @@
-![Схема](<Схема БД.png>)
+ОБНОВЛЕННЫЙ САЙТ
+
+![Alt text](<Схема БД-1.png>)
 
 CREATE DATABASE music WITH OWNER = postgres;
 
@@ -52,4 +54,4 @@ CREATE TABLE IF NOT EXISTS CollectionsTracks (
 	constraint pk_CollectionsTracks PRIMARY KEY (CollectionId, TrackId)
 );
 
-ссылка: Code.txt
+
